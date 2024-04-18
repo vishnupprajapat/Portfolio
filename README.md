@@ -101,7 +101,6 @@ export const personalData = {
   name: "",
   profile: "",
   designation: "",
-  description: "My name is ABU SAID....",
   email: "",
   phone: "",
   address: "",
